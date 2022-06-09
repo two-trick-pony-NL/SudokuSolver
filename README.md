@@ -6,6 +6,7 @@ Solving a Sudoku with Recursion
 You fill out a grid that represents the puzzle, where 0 is a unknow field.
 Something like: 
 '''
+
 grid = [[0,0,0,0,1,5,0,7,0],
         [0,0,0,0,0,0,5,8,1],
         [3,0,0,0,0,7,0,6,2],
