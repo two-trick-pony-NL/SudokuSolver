@@ -19,7 +19,7 @@ grid =[[0,0,0,0,1,5,0,7,0],
 ```
 
 # Then by running each steps you'll get an answer: 
-Each 0 is replaced by the actial values
+Each 0 is replaced by the actual value, calculated by the solver
 
 
 ```
