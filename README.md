@@ -5,9 +5,9 @@ Solving a Sudoku with Recursion
 # How it works: 
 You fill out a grid that represents the puzzle, where 0 is a unknow field.
 Something like: 
-'''
 
-[[0,0,0,0,1,5,0,7,0],
+```
+grid =[[0,0,0,0,1,5,0,7,0],
 [0,0,0,0,0,0,5,8,1],
 [3,0,0,0,0,7,0,6,2],
 [0,9,0,0,0,0,0,5,0],
@@ -16,7 +16,7 @@ Something like:
 [7,0,0,0,5,0,4,0,0],
 [0,4,5,3,0,0,7,0,8],
 [2,0,0,0,9,0,0,0,0]]
-'''
+```
 
 # Then by running each steps you'll get an answer: 
 Each 0 is replaced by the actial values
